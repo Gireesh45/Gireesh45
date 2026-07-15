@@ -12,24 +12,17 @@ I specialize in building responsive and scalable web applications using React.js
 - 📧 Email: kudupudivenkata95@gmail.com
 - 🌍 Portfolio: https://gireesh-port-folio.vercel.app/about
 
-### 🚀 Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
-- Next.js
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- Material UI
-- Node.js
-- ApexCharts
-- Echarts
-- Jest
-- React testing Library
-- Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts,html,css,bootstrap,tailwind,materialui,nodejs,git,github,jest,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+</p>
 
 ### 📌 Projects
 

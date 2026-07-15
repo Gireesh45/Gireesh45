@@ -36,11 +36,10 @@ I specialize in building responsive and scalable web applications using React.js
 - 🎁 Draft Fuel Admin Panel
 
 ### 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Gireesh45&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gireesh45&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-ten-smoky-99.vercel.app/api?username=Gireesh45&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-ten-smoky-99.vercel.app/api/top-langs/?username=Gireesh45&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 

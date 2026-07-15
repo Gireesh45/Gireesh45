@@ -12,7 +12,7 @@ I specialize in building responsive and scalable web applications using React.js
 - 📧 Email: kudupudivenkata95@gmail.com
 - 🌍 Portfolio: https://gireesh-port-folio.vercel.app/about
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 | JavaScript | React | Redux Toolkit | Next.js | TypeScript | HTML5 | CSS3 |
 | :--------: | :---: | :-----------: | :-----: | :--------: | :---: | :--: |

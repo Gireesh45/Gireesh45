@@ -14,16 +14,19 @@ I specialize in building responsive and scalable web applications using React.js
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,ts,html,css,bootstrap,tailwind,materialui,nodejs,git,github,jest,vscode" />
-</p>
+| JavaScript | React | Redux Toolkit | Next.js | TypeScript | HTML5 | CSS3 |
+| :--------: | :---: | :-----------: | :-----: | :--------: | :---: | :--: |
+| <img src="https://skillicons.dev/icons?i=js" width="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=redux" width="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> | <img src="https://skillicons.dev/icons?i=html" width="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48"/> |
+
+| Bootstrap | Tailwind CSS | Material UI | Node.js | Git | GitHub | Jest |
+| :-------: | :----------: | :---------: | :-----: | :-: | :----: | :--: |
+| <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=materialui" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=jest" width="48"/> |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
-
 ### 📌 Projects
 
 - 🏥 Hospital Maintenance System

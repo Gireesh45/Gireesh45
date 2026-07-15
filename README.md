@@ -22,7 +22,7 @@ I specialize in building responsive and scalable web applications using React.js
 | :-------: | :----------: | :---------: | :-----: | :-: | :----: | :--: |
 | <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=materialui" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48"/> | <img src="https://skillicons.dev/icons?i=jest" width="48"/> |
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
